@@ -28,13 +28,13 @@ Seleccionaremos aquél proyecto en el que la ejecución de la idea innova en alg
 
 ## KISS Award
 
-**Keep it short and simple!** Seleccionaremos el proyecto en el que su ejecución sea inteligente, simple, elegante y al grano `(por ejemplo: un minijuego en 100 líneas de código hecho en JS)`.
+**Keep it short and simple!** Seleccionaremos el proyecto que sea simple, elegante y al grano `(por ejemplo: un minijuego en 100 líneas de código hecho en JS)`. La optimización e ingenio son la clave para ganar esta categoría.
 
 ---
 
 ## Mr. Robot Award
 
-Seleccionaremos la aplicación que implemente la mayor cantidad de funcionalidad. `Demuéstrales a los reclutadores que sabes consumir API's, implementar dependencias, bibliotecas de terceros, uso correcto de herencia e interfaces y más!`
+Seleccionaremos la aplicación que implemente la mayor cantidad de funcionalidades. Demuéstrales a los reclutadores que sabes consumir API's, implementar dependencias, bibliotecas de terceros, uso correcto de herencia e interfaces y más!
 
 ---
 
