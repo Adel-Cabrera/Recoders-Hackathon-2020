@@ -49,3 +49,9 @@ Seleccionaremos el proyecto que mayor impacto estético genere en los usuarios. 
 Ganará la aplicación que tenga como propósito *conectar a las personas*. Si quieres crear un proyecto que va en ayuda de otros y/o que resuelve algún problema social o comunitario en particular, este es tu espacio para participar!
 
 ---
+
+
+
+# Premios
+
+500 -> NullPointerException
