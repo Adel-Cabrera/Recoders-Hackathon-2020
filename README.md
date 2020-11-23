@@ -10,7 +10,7 @@ Puedes usar cualquier stack de tecnologías que domines `(Python - Django, Java 
 
 # Reglas
 
-1. Se puede participar en equipos de 3 integrantes. Si estás sola/o y no tienes equipo aún, podrás encontrar integrantes en el canal de discord destinado para ello para participar.
+1. Se puede participar en equipos de 3 integrantes. Si estás sola/o y no tienes equipo aún, podrás encontrar integrantes en el canal de discord "Creación de equipos" destinado para ello para participar.
 2. Son 48 horas máximo para entregar el proyecto terminado `(incluido deployment)`.
 3. Debe subirse a una plataforma cloud para que la aplicación sea ejecutada y que otros usuarios puedan acceder a ella `(por ejemplo heroku, aws, gcp, github pages)`.
 4. El proyecto debe subirse a una plataforma de control de versiones `(por ejemplo github, gitlab)`. 
