@@ -10,7 +10,7 @@ Puedes usar cualquier stack de tecnologías que domines `(Python - Django, Java 
 
 # Reglas
 
-1. Se puede participar de forma individual o en equipo de máximo 3 integrantes.
+1. Se puede participar en equipos de 3 integrantes.
 2. Son 48 horas máximo para entregar el proyecto terminado `(incluido deployment)`.
 3. Debe subirse a una plataforma cloud para que la aplicación sea ejecutada y que otros usuarios puedan acceder a ella `(por ejemplo heroku, aws, gcp, github pages)`.
 4. El proyecto debe subirse a una plataforma de control de versiones `(por ejemplo github, gitlab)`. 
